@@ -1,5 +1,5 @@
 # Spoofing_Detection
-Sistem pendeteksian video spoofing
+Video spoofing detection system with deep learning and ensemble learning
 
 # Project Description
 This project aims to develop a spoofing detection system designed to improve the security of biometric systems. Video spoofing, such as attacks using fake face recordings, is a serious threat to modern security. This system uses deep learning and ensemble learning based approaches to automatically detect spoofing patterns.
